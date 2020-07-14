@@ -1,7 +1,7 @@
 // **********************************************************************************************************
 // PURPOSE		:	A template class definition for 3D point                                                *
 // LANGUAGE		:		 C++ 17 (GNU GCC 8.4)                                                               *
-// ASSUMPTIONS	:	For the sake of easy access all attributes are defined as private.                      *
+// ASSUMPTIONS	:	For the sake of easy access all attributes are defined as public.                      *
 // DATE			:	16 April 2020                                                                           *
 // AUTHOR		:	Vaibhav BENDRE (vaibhav.bendre7520@gmail.com) 											*
 //																											*
