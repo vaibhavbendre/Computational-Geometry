@@ -79,7 +79,6 @@ int main(){
 	//Temp.at(1) = Y;
 	//Temp.at(2) = Z;
 
-
 	std::cout << "Area of triangle is : " << area3D(X, Y, Z) << "\n" << std::flush;
 	//std::cout << "Area of triangle is : " << area3D(Temp) << "\n" << std::flush;
 
